@@ -1,4 +1,5 @@
 # Understanding Git
+When you first start Git, it maybe complicated.
 
 For my first impression of Git, a software compatible to the work of a terminal, it can have many coding and operations that come with it. In the first few indexes of the page,
 it talks about what a Version Control is, although I haven't gotten a grasp of what that is yet. The article mentioned the types of Verison Controls which are Local, Centralized, and Distributed Version Controls. All of these controls have a part in editing files on your previous work in the Git software. It can go into depth on where you can use Git on different softwares such as Linux, Mac OS, and Windows.
