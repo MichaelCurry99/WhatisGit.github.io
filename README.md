@@ -5,3 +5,4 @@ it talks about what a Version Control is, although I haven't gotten a grasp of w
 
  The program is said to protect files from accidents, making it extremely difficult for the user to lose anything that they need, especially when it wasn't saved. Once you have Git downloaded on your computer, the page insists that you customize the settings of how everything works before you actually use it.One of those are the identity settings in which you will be required to use both your email address and name. After that is complete, you will actually make your own repository from scratch, which can be overwhelming for those who have never used the program, such as myself. So this will also take a little time to understand the "basic" writing in Git, but this will be done in no time!
  
+⬅ [Back to Table Contents](https://michaelcurry99.github.io/RevisionsCloud.github.io/)
